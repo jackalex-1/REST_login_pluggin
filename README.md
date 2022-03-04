@@ -5,7 +5,7 @@ I have a made a pluggin which allows you to login to WordPress through email & p
 
 ## wp_authenticate Hook
 
-I have used the wp_authenticate[https://developer.wordpress.org/reference/functions/wp_authenticate/] Hook to make the plugin 
+I have used the [wp_authenticate](https://developer.wordpress.org/reference/functions/wp_authenticate/) Hook to make the plugin 
 
 ```PHP
  wp_authenticate($Username, $Password);
@@ -16,7 +16,7 @@ I have used the wp_authenticate[https://developer.wordpress.org/reference/functi
 ## Puggin Info
 
 
-This Pluggin allows you Login through Email & Password via WordPress REST API, This Request will provide you the User ID as a response & you will use the RetriveUser[https://developer.wordpress.org/rest-api/reference/users/#retrieve-a-user] API to retrieve the user Info 
+This Pluggin allows you Login through Email & Password via WordPress REST API, This Request will provide you the User ID as a response & you will use the [Retrive User] (https://developer.wordpress.org/rest-api/reference/users/#retrieve-a-user) API to retrieve the user Info 
 
 
 ## How to use it ?
