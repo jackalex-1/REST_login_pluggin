@@ -16,7 +16,7 @@ I have used the [wp_authenticate](https://developer.wordpress.org/reference/func
 ## Puggin Info
 
 
-This Pluggin allows you Login through Email & Password via WordPress REST API, This Request will provide you the User ID as a response & you will use the [Retrive User] (https://developer.wordpress.org/rest-api/reference/users/#retrieve-a-user) API to retrieve the user Info 
+This Pluggin allows you Login through Email & Password via WordPress REST API, This Request will provide you the User ID as a response & you will use the [Retrive User](https://developer.wordpress.org/rest-api/reference/users/#retrieve-a-user) API to retrieve the user Info 
 
 
 ## How to use it ?
